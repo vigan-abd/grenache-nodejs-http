@@ -1,6 +1,6 @@
 {
   "name": "grenache-nodejs-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Granache Node.js HTTP implementation",
   "author": "prdn <paolo@bitfinex.com> (https://bitfinex.com/)",
